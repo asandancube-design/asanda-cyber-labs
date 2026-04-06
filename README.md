@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Hi, I’m Asanda 👋  
+Hi, I’m Philisiwe 👋  
 I’m an aspiring SOC Analyst building hands-on cybersecurity skills through labs, incident simulations, and automation projects.
 
 This repository showcases my learning journey as I develop practical experience in cybersecurity, focusing on threat detection, log analysis, and security automation.
